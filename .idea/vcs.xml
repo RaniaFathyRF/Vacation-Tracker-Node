@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../ecommerce-site" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../wordpressprojects/wp_test/wp-content/plugins/app-expert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../wordpressprojects/wp_test/wp-content/plugins/app-experts-automation-tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../wordpressprojects/wp_test/wp-content/plugins/rf-custom-gutenberg-block" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../wordpressprojects/wp_test/wp-content/plugins/wc-products-quantity-manager" vcs="Git" />
+  </component>
+</project>

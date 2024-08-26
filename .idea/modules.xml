@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ecommerce-site/.idea/ecommerce-site.iml" filepath="$PROJECT_DIR$/../ecommerce-site/.idea/ecommerce-site.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nodejs-dashboard/.idea/nodejs-dashboard.iml" filepath="$PROJECT_DIR$/../nodejs-dashboard/.idea/nodejs-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../real-time-collaboration-tool/.idea/real-time-collaboration-tool.iml" filepath="$PROJECT_DIR$/../real-time-collaboration-tool/.idea/real-time-collaboration-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vacation-tracker.iml" filepath="$PROJECT_DIR$/.idea/vacation-tracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../wordpressprojects/wp_test/.idea/wp_test.iml" filepath="$PROJECT_DIR$/../../wordpressprojects/wp_test/.idea/wp_test.iml" />
+    </modules>
+  </component>
+</project>
